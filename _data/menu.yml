@@ -1,0 +1,28 @@
+# For documentation on this file, see:
+# https://github.com/riggraz/no-style-please#customize-the-menu
+
+entries:
+    - title: about
+      url: false
+      entries:
+          - title: me
+            url: about
+          - title: books
+            url: books
+          - title: uses
+            url: uses
+          - title: github
+            url: https://github.com/szymonhrehorowicz/
+          - title: linkedin
+            url: https://www.linkedin.com/in/szymon-hrehorowicz-277118183/
+
+    - title: projects
+      url: false
+      entries:
+          - title: skip-yt-cookies-policies
+            url: skip-yt-cookies-policies
+
+    - title: x-files
+      post_list: true
+      url: false
+      entries: false
