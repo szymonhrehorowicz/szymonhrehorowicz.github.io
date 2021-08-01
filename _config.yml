@@ -2,6 +2,7 @@ title: szymon_hrehorowicz # name of the site
 author: Szymon Hrehorowicz # name of site's author
 email: szymhre@gmail.com # email of site's author
 url: https://hrehorowi.cz/ # root address of the site
+baseurl: /szymonhrehorowicz
 description: > # description of the site (multiple lines allowed)
     my cozy place deep inside the web
 
